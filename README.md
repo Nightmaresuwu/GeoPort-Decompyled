@@ -3,7 +3,7 @@ GeoPort: Your Location, Anywhere! The iOS location simulator (DECOMPYLED SOURCE 
 <div style="text-align: center;"> <h2>Your Location, Anywhere!</h2> <p>🎉 Now Available! 🎉</p> <a href="" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;"></a> </div>
 🔒 Important Notice
 GeoPort is a closed-source application. However, the source code has been decompiled, meaning it is now accessible and viewable.
-Warning: There is an error in the code with /connect_device find out how to fix it :)
+
 To the Developer : I find it sad that you gatekeep it. Honestly, a project like this should be open source and you shouldn't gatekeep it but yeah love you <3
 
 What is GeoPort?
